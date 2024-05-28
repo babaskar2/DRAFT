@@ -1,0 +1,125 @@
+,Name,Primary Attribute,Attack Type,Attack Range,Roles,Total Pro wins,Times Picked,Times Banned,Win Rate,Total Pro loss,Times Contested,Tier
+0,Abaddon,Universal,Melee,150,Support, Carry, Durable, Healer,8,24,61,33.33,16,85,C
+1,Alchemist,Strength,Melee,150,Carry, Support, Durable, Disabler, Initiator, Nuker, Farmer,23,55,22,41.82,32,77,B
+2,Ancient Apparition,Intelligent,Ranged,675,Support, Disabler, Nuker, Roamer,40,77,73,51.95,37,150,B
+3,Anti-Mage,Agility,Melee,150,Carry, Escape, Farmer, Pusher,40,66,78,60.61,26,144,B
+4,Arc Warden,Agility,Ranged,625,Carry, Pusher, Nuker,  Unit,5,14,31,35.71,9,45,C
+5,Axe,Strength,Melee,150,Initiator, Durable, Disabler,122,262,222,46.56,140,484,B
+6,Bane,Universal,Ranged,400,Support, Disabler, Nuker, Durable, Roamer,84,152,104,55.26,68,256,B
+7,Batrider,Universal,Ranged,400,Initiator, Disabler, Escape, Roamer,19,54,105,35.19,35,159,C
+8,Beastmaster,Universal,Melee,150,Initiator, Disabler, Durable, Unit,170,333,484,51.05,163,817,A
+9,Bloodseeker,Agility,Melee,150,Carry, Disabler, Durable, Initiator,70,157,461,44.59,87,618,B
+10,Bounty Hunter,Agility,Melee,150,Escape, Nuker, Roamer, Support,33,65,36,50.77,32,101,B
+11,Brewmaster,Universal,Melee,150,Initiator, Durable, Disabler, Unit,125,267,964,46.82,142,1231,A
+12,Bristleback,Strength,Melee,150,Carry, Durable, Nuker,55,120,119,45.83,65,239,B
+13,Broodmother,Universal,Melee,175,Carry, Pusher, Escape, Unit,9,21,127,42.86,12,148,B
+14,Centaur Warrunner,Strength,Melee,150,Durable, Initiator, Disabler, Escape,95,172,90,55.23,77,262,B
+15,Chaos Knight,Strength,Melee,150,Carry, Durable, Pusher, Initiator,47,85,42,55.29,38,127,B
+16,Chen,Universal,Ranged,650,Support, Pusher, Healer, Unit,22,36,173,61.11,14,209,B
+17,Clinkz,Agility,Ranged,600,Carry, Escape, Pusher,46,83,90,55.42,37,173,B
+18,Clockwerk,Universal,Melee,150,Initiator, Disabler, Durable, Roamer,72,139,192,51.8,67,331,B
+19,Crystal Maiden,Intelligent,Ranged,600,Support, Disabler, Nuker, Roamer,160,296,30,54.05,136,326,B
+20,Dark Seer,Universal,Melee,150,Initiator, Escape, Disabler, Durable,86,164,273,52.44,78,437,B
+21,Dark Willow,Universal,Ranged,475,Support, Nuker, Disabler, Escape,239,476,346,50.21,237,822,A
+22,Dawnbreaker,Strength,Melee,150,Carry, Durable, Healer, Disabler,236,468,963,50.43,232,1431,A
+23,Dazzle,Universal,Ranged,575,Support, Nuker, Disabler, Healer,91,163,398,55.83,72,561,B
+24,Death Prophet,Intelligent,Ranged,600,Carry, Pusher, Nuker, Disabler,23,48,62,47.92,25,110,B
+25,Disruptor,Intelligent,Ranged,625,Support, Disabler, Roamer, Initiator,80,159,28,50.31,79,187,B
+26,Doom,Strength,Melee,200,Disabler, Initiator, Durable, Nuker,98,211,365,46.45,113,576,B
+27,Dragon Knight,Strength,Melee,150,Pusher, Durable, Disabler, Initiator,36,81,41,44.44,45,122,B
+28,Drow Ranger,Agility,Ranged,625,Carry, Disabler, Pusher, Farmer,43,93,112,46.24,50,205,B
+29,Earth Spirit,Strength,Melee,150,Nuker, Roamer, Disabler, Initiator, Durable,194,374,500,51.87,180,874,A
+30,Earthshaker,Strength,Melee,150,Roamer, Initiator, Disabler, Nuker,200,397,372,50.38,197,769,A
+31,Elder Titan,Strength,Melee,150,Initiator, Disabler, Nuker, Support,19,37,18,51.35,18,55,B
+32,Ember Spirit,Agility,Melee,150,Carry, Escape, Nuker, Disabler, Initiator,87,204,227,42.65,117,431,B
+33,Enchantress,Intelligent,Ranged,575,Support, Pusher, Durable, Unit,69,121,59,57.02,52,180,B
+34,Enigma,Universal,Ranged,500,Disabler, Initiator, Pusher, Unit,11,19,34,57.89,8,53,B
+35,Faceless Void,Agility,Melee,150,Carry, Initiator, Disabler, Escape,85,164,388,51.83,79,552,B
+36,Grimstroke,Intelligent,Ranged,600,Support, Nuker, Disabler, Initiator,235,488,253,48.16,253,741,B
+37,Gyrocopter,Agility,Ranged,365,Carry, Nuker, Farmer, Pusher,172,333,767,51.65,161,1100,A
+38,Hoodwink,Agility,Ranged,575,Support, Nuker, Escape, Disabler,68,117,114,58.12,49,231,B
+39,Huskar,Strength,Ranged,400,Nuker, Durable, Initiator, Disabler,16,40,92,40.0,24,132,B
+40,Invoker,Universal,Ranged,600,Nuker, Disabler, Escape, Pusher,243,463,1049,52.48,220,1512,A
+41,Io,Universal,Ranged,500,Support, Escape, Nuker, Healer,100,183,570,54.64,83,753,A
+42,Jakiro,Intelligent,Ranged,400,Support, Nuker, Pusher, Disabler,81,171,69,47.37,90,240,B
+43,Juggernaut,Agility,Melee,150,Carry, Pusher, Escape, Farmer,35,70,73,50.0,35,143,B
+44,Keeper of the Light,Intelligent,Ranged,600,Support, Nuker, Disabler, Healer,122,237,279,51.48,115,516,B
+45,Kunkka,Strength,Melee,150,Disabler, Initiator, Durable, Nuker,111,231,170,48.05,120,401,B
+46,Legion Commander,Strength,Melee,150,Carry, Disabler, Initiator, Durable,,242,452,468,53.54,210,920,A
+47,Leshrac,Intelligent,Ranged,575,Nuker, Pusher, Disabler, Durable,44,83,79,53.01,39,162,B
+48,Lich,Intelligent,Ranged,550,Support, Nuker, Disabler,88,206,84,42.72,118,290,B
+49,Lifestealer,Strength,Melee,150,Carry, Durable, Escape,45,101,200,44.55,56,301,B
+50,Lina,Intelligent,Ranged,670,Carry, Nuker, Disabler,106,222,234,47.75,116,456,B
+51,Lion,Intelligent,Ranged,600,Support, Disabler, Nuker, Initiator,122,255,68,47.84,133,323,B
+52,Lone Druid,Universal,Ranged,550,Carry, Pusher, Durable, Unit,29,66,272,43.94,37,338,B
+53,Luna,Agility,Ranged,330,Carry, Nuker, Pusher, Farmer,67,124,26,54.03,57,150,B
+54,Lycan,Universal,Melee,150,Unit, Pusher, Durable, Escape,48,95,172,50.53,47,267,B
+55,Magnus,Universal,Melee,150,Initiator, Disabler, Durable, Escape,19,58,118,32.76,39,176,C
+56,Marci,Universal,Melee,150,Roamer, Initiator, Disabler, Escape,93,188,171,49.47,95,359,B
+57,Mars,Strength,Melee,250,Nuker, Initiator, Disabler, Durable,83,172,92,48.26,89,264,B
+58,Medusa,Agility,Ranged,600,Carry, Disabler, Durable, Farmer,28,60,209,46.67,32,269,B
+59,Meepo,Agility,Melee,150,Unit, Disabler, Initiator, Pusher,4,5,49,80.0,1,54,S
+60,Mirana,Universal,Ranged,630,Roamer, Escape, Nuker, Disabler,43,93,143,46.24,50,236,B
+61,Monkey King,Agility,Melee,300,Carry, Escape, Disabler, Initiator,86,171,227,50.29,85,398,B
+62,Morphling,Agility,Ranged,350,Carry, Escape, Durable, Nuker,63,140,231,45.0,77,371,B
+63,Muerta,Intelligent,Ranged,575,Carry, Nuker, Disabler,97,200,140,48.5,103,340,B
+64,Naga Siren,Agility,Melee,150,Carry, Pusher, Initiator, Escape,50,105,423,47.62,55,528,B
+65,Nature's Prophet,Intelligent,Ranged,620,Carry, Pusher, Farmer, Unit,245,412,946,59.47,167,1358,A
+66,Necrophos,Intelligent,Ranged,500,Healer, Nuker, Durable, Disabler,48,104,194,46.15,56,298,B
+67,Night Stalker,Strength,Melee,150,Carry, Initiator, Durable, Disabler,82,168,231,48.81,86,399,B
+68,Nyx Assassin,Universal,Melee,150,Disabler, Nuker, Initiator, Roamer,28,68,186,41.18,40,254,B
+69,Ogre Magi,Strength,Melee,150,Support, Nuker, Disabler, Durable,87,158,29,55.06,71,187,B
+70,Omniknight,Strength,Melee,150,Support, Durable, Nuker, Healer,34,59,80,57.63,25,139,B
+71,Oracle,Intelligent,Ranged,620,Support, Nuker, Disabler, Healer,78,155,124,50.32,77,279,B
+72,Outworld Destroyer,Intelligent,Ranged,450,Carry, Nuker, Disabler, Initiator,67,141,624,47.52,74,765,B
+73,Pangolier,Universal,Melee,150,Nuker, Disabler, Durable, Initiator,225,445,974,50.56,220,1419,A
+74,Phantom Assassin,Agility,Melee,150,Carry, Escape, Farmer,272,542,835,50.18,270,1377,A
+75,Phantom Lancer,Agility,Melee,225,Carry, Escape, Pusher,28,53,125,52.83,25,178,B
+76,Phoenix,Universal,Ranged,525,Support, Nuker, Initiator, Disabler,84,215,285,39.07,131,500,B
+77,Primal Beast,Strength,Melee,150,Initiator, Durable, Disabler, Roamer,185,365,831,50.68,180,1196,A
+78,Puck,Intelligent,Ranged,550,Initiator, Disabler, Escape, Nuker,88,179,295,49.16,91,474,B
+79,Pudge,Strength,Melee,175,Disabler, Initiator, Durable, Nuker,101,192,80,52.6,91,272,B
+80,Pugna,Intelligent,Ranged,630,Nuker, Pusher, Disabler,72,134,274,53.73,62,408,B
+81,Queen of Pain,Intelligent,Ranged,550,Carry, Nuker, Escape, Pusher,145,240,414,60.42,95,654,A
+82,Razor,Agility,Ranged,475,Carry, Durable, Nuker, Initiator,103,216,385,47.69,113,601,B
+83,Riki,Agility,Melee,150,Carry, Escape, Disabler, Initiator,18,55,135,32.73,37,190,C
+84,Rubick,Intelligent,Ranged,550,Roamer, Disabler, Nuker, Intitiator,233,539,448,43.23,306,987,A
+85,Sand King,Universal,Melee,150,Initiator, Disabler, Nuker, Escape,37,70,70,52.86,33,140,B
+86,Shadow Demon,Intelligent,Ranged,500,Roamer, Disabler, Initiator, Nuker,122,242,154,50.41,120,396,B
+87,Shadow Fiend,Agility,Ranged,525,Carry, Nuker, Farmer, Pusher,99,203,185,48.77,104,388,B
+88,Shadow Shaman,Intelligent,Ranged,400,Support, Pusher, Disabler, Initiator,56,109,27,51.38,53,136,B
+89,Silencer,Intelligent,Ranged,600,Support, Disabler, Initiator, Nuker,59,118,55,50.0,59,173,B
+90,Skywrath Mage,Intelligent,Ranged,625,Support, Nuker, Disabler, Roamer,204,400,235,51.0,196,635,B
+91,Slardar,Strength,Melee,150,Durable, Initiator, Disabler, Escape,44,104,99,42.31,60,203,B
+92,Slark,Agility,Melee,150,Carry, Escape, Disabler,  Durable,110,215,574,51.16,105,789,A
+93,Snapfire,Universal,Ranged,500,Support, Nuker, Disabler, Initiator,84,152,94,55.26,68,246,B
+94,Sniper,Agility,Ranged,550,Carry, Nuker, Pusher,44,84,67,52.38,40,151,B
+95,Spectre,Agility,Melee,150,Carry, Durable, Escape, Initiator,34,73,76,46.58,39,149,B
+96,Spirit Breaker,Strength,Melee,150,Initiator, Disabler, Durable, Roamer,97,211,107,45.97,114,318,B
+97,Storm Spirit,Intelligent,Ranged,480,Escape, Nuker, Initiator, Disabler,106,209,219,50.72,103,428,B
+98,Sven,Strength,Melee,150,Carry, Disabler, Initiator, Farmer,305,591,772,51.61,286,1363,A
+99,Techies,Universal,Ranged,700,Nuker, Disabler, Roamer, Intiator,33,73,117,45.21,40,190,B
+100,Templar Assassin,Agility,Ranged,200,Carry, Escape, Farmer, Pusher,183,352,496,51.99,169,848,A
+101,Terrorblade,Agility,Melee,150,Carry, Pusher, Farmer, Unit,97,203,194,47.78,106,397,B
+102,Tidehunter,Strength,Melee,150,Initiator, Durable, Disabler, Nuker, Carry,161,286,201,56.29,125,487,B
+103,Timbersaw,Universal,Melee,150,Nuker, Durable, Escape,39,85,221,45.88,46,306,B
+104,Tinker,Intelligent,Ranged,500,Durable, Nuker, Pusher, Escape,9,26,169,34.62,17,195,C
+105,Tiny,Strength,Melee,150,Nuker, Initiator, Roamer, Disabler,55,113,62,48.67,58,175,B
+106,Treant Protector,Strength,Melee,150,Support, Initiator, Durable, Disabler,246,437,767,56.29,191,1204,A
+107,Troll Warlord,Agility,Ranged,500,Carry, Pusher, Disabler, Durable,98,193,320,50.78,95,513,B
+108,Tusk,Strength,Melee,150,Initiator, Disabler, Nuker, Roamer,106,206,199,51.46,100,405,B
+109,Underlord,Strength,Melee,200,Nuker, Disabler, Durable, Escape,36,68,78,52.94,32,146,B
+110,Undying,Strength,Melee,150,Support, Durable, Healer, Nuker,84,177,169,47.46,93,346,B
+111,Ursa,Agility,Melee,150,Carry, Durable, Disabler,85,173,226,49.13,88,399,B
+112,Vengeful Spirit,Universal,Ranged,400,Support, Initiator, Disabler, Nuker,407,801,764,50.81,394,1565,A
+113,Venomancer,Universal,Ranged,450,Support, Nuker, Initiator, Pusher,49,115,340,42.61,66,455,B
+114,Viper,Agility,Ranged,575,Carry, Durable, Initiator, Nuker,41,79,260,51.9,38,339,B
+115,Visage,Universal,Ranged,600,Unit, Nuker, Durable, Pusher,29,50,246,58.0,21,296,B
+116,Void Spirit,Universal,Melee,200,Initiator, Escape, Nuker, Disabler,62,128,278,48.44,66,406,B
+117,Warlock,Intelligent,Ranged,600,Support, Initiator, Disabler, Healer,234,517,636,45.26,283,1153,A
+118,Weaver,Agility,Ranged,425,Carry, Escape, Pusher,46,100,137,46.0,54,237,B
+119,Windranger,Universal,Ranged,600,Carry, Disabler, Escape, Pusher,76,165,432,46.06,89,597,B
+120,Winter Wyvern,Universal,Ranged,425,Support, Disabler, Nuker, Healer,21,53,225,39.62,32,278,B
+121,Witch Doctor,Intelligent,Ranged,550,Support, Nuker, Disabler, Healer,62,145,71,42.76,83,216,B
+122,Wraith King,Strength,Melee,150,Carry, Durable, Disabler, Initiator,52,99,40,52.53,47,139,B
+123,Zeus,Intelligent,Ranged,380,Nuker, Carry, Initiator,88,159,225,55.35,71,384,B
